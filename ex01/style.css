@@ -1,2 +1,8 @@
 @charset "UTF-8";
 
+body{
+
+    background-image: url('https://t.ctcdn.com.br/5XPASDBUosgmBv5Ptpxcd6eTJso=/512x288/smart/filters:format(webp)/i257652.jpeg');
+    background-size: 100px 100px;
+    background-repeat: repeat-y;
+}
