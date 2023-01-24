@@ -2,19 +2,22 @@
 
 body{
     height: 100vh;
-    background-color: black;
-    background-image: url('Imagens/wallpaper002.jpg');
-    background-repeat: no-repeat;
-    background-position: center top;
+   
+    
+    
+
+    background: black url(Imagens/wallpaper002.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
 div{
+    
     height: auto;
     width: 400px;
     padding: 10px;
     border: 1px solid black ;
-    margin: auto;
     text-align: justify;
     background-color: wheat;
+    margin: auto;
+    
 }
