@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#Conteiner{
+    height: 96vh;
+    background-size: 100% 100%;
+    background-image: url(Imagens/target001.png);
+    border: 2px solid black;
+    
+     
+    background-color: yellow;
+    padding: 10px;
+}
+
+#conteudo{
+    background-size: 100% 100%;
+    position: absolute;
+    border: 2px solid blue;
+    height: 350px;
+    width: 400px;
+    background-color: red;
+    
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}

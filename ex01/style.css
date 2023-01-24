@@ -2,12 +2,9 @@
 
 body{
     height: 100vh;
-   
-    
-    
-
     background: black url(Imagens/wallpaper002.jpg) center center no-repeat fixed;
     background-size: cover;
+    
 }
 
 div{
