@@ -16,18 +16,20 @@
 }
 
 body{
-
+    
     background-color: aliceblue;
     min-height: 100vh;
+    
 }
 
 header{
-    
+
     background-color: darkolivegreen;
     padding: 50px;
 }
 
 h1{
+    
     text-align: center;
     margin: auto;
     font-family: 'draft', Arial, Helvetica, sans-serif;
@@ -55,37 +57,30 @@ a:hover{
     text-decoration: underline;
 }
 
-section.seção1{
+section.seção1, .seção3, .seção5{
 
-        padding: 80px 0px 10px 30px;
+        padding: 10vh 0px 10vh 30px;
         text-align: left;
         font-size: 80px;
         line-height: 1.7em;
 }
 
-section.seção2{
+section.seção2, .seção4, .seção6{
 
-    padding: 80px 0px 10px 30px;
+    padding: 10vh 0px 10vh 30px;
         text-align: left;
         font-size: 80px;
         line-height: 1.7em;
-}
-
-section.seção3{
-
-    padding: 80px 0px 10px 30px;
-        text-align: left;
-        font-size: 80px;
-        line-height: 1.7em;
-}
-
-section.seção4{
+        background-color: black;
     
-    padding: 80px 0px 10px 30px;
-        text-align: left;
-        font-size: 80px;
-        line-height: 1.7em;
 }
+
+p.imagem{
+    background-color: rgba(51, 51, 51);
+    color: white;
+}
+
+
 
 
 
