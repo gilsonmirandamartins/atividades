@@ -3,6 +3,7 @@
 *{
     margin: 0px;
     padding: 0px;
+
 }
 
 @font-face {
@@ -25,22 +26,21 @@ body{
 header{
 
     background-color: darkolivegreen;
-    padding: 50px;
+    
 }
 
 h1{
     
     text-align: center;
-    margin: auto;
     font-family: 'draft', Arial, Helvetica, sans-serif;
-    font-size: 75px;
-    padding: 55px;
+    font-size: 5vw;
+    padding: 70px 0px 20px 0px;
 }
 
 h4{
-    margin: auto;
+    font-size: 17px;
     text-align: center;
-    padding-top: 15px;
+    padding-bottom: 80px;
 }
 
 p{
@@ -50,7 +50,7 @@ p{
 a{
     text-decoration: none;
     color: black;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 a:hover{
@@ -61,7 +61,7 @@ section.seção1, .seção3, .seção5{
 
         padding: 10vh 0px 10vh 30px;
         text-align: left;
-        font-size: 80px;
+        font-size: 5vw;
         line-height: 1.7em;
 }
 
@@ -69,7 +69,7 @@ section.seção2, .seção4, .seção6{
 
     padding: 10vh 0px 10vh 30px;
         text-align: left;
-        font-size: 80px;
+        font-size: 4.5vw;
         line-height: 1.7em;
         background-color: black;
     
