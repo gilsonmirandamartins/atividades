@@ -33,12 +33,13 @@ h1{
     
     text-align: center;
     font-family: 'draft', Arial, Helvetica, sans-serif;
-    font-size: 5.5vw;
+    font-size: 7vw;
+    font-variant: small-caps;
     padding: 70px 0px 20px 0px;
 }
 
-h4{
-    font-size: 1.5vw;
+p.title{
+    font-size: 1.2em;
     text-align: center;
     padding-bottom: 80px;
 }
@@ -50,7 +51,7 @@ p{
 a{
     text-decoration: none;
     color: black;
-    font-size: 1.5vw;
+    font-size: 1em;
 }
 
 a:hover{
@@ -61,13 +62,13 @@ section.seção1, .seção3, .seção5{
 
         padding: 10vh 0px 10vh 30px;
         text-align: left;
-        font-size: 5vw;
+        font-size: 4.5vw;
         line-height: 1.7em;
 }
 
 section.seção2, .seção4, .seção6{
 
-    padding: 10vh 0px 10vh 30px;
+    padding: 10px 0px 10px 30px;
         text-align: left;
         font-size: 4.5vw;
         line-height: 1.7em;
@@ -78,6 +79,11 @@ section.seção2, .seção4, .seção6{
 p.imagem{
     background-color: rgba(51, 51, 51);
     color: white;
+    padding: 10px 5px 10px 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: inline-block;
+
 }
 
 
