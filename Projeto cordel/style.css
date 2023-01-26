@@ -77,12 +77,34 @@ section.seção2, .seção4, .seção6{
 }
 
 p.imagem{
-    background-color: rgba(51, 51, 51);
+    background-color: rgba(51, 51, 51, 0.662);
     color: white;
     padding: 10px 5px 10px 20px;
     margin-top: 40px;
     margin-bottom: 40px;
     display: inline-block;
+
+}
+
+.seção2#magem1{
+    background-image: url(Imagens/environment-g13aa7ff1f_1920.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+.seção4#magem2{
+    background-image: url(Imagens/lightbulb-g742080c4d_1920.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: left center;
+}
+
+.seção6#magem3{
+    background-image: url(Imagens/outdoors-578650.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
 
 }
 
