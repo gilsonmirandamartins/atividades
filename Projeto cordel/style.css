@@ -109,19 +109,21 @@ p.imagem{
 }
 
 footer {
+    margin: auto;
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 30px;
-    padding: 15px;
+    font-size: 18px;
+    padding: 5px;
 }
 
 a.rodape{
+    margin: auto;
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 25px;
-    padding: 15px;
+    font-size: 19px;
+    padding: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
